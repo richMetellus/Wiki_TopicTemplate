@@ -23,4 +23,4 @@ Courses
     :numbered:
     :maxdepth: 1
 
-    Courses/CourseName_git/content.rst
+    Courses/CourseName_git/content

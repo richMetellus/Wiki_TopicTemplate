@@ -10,5 +10,6 @@ Course Content
 .. toctree::
     :caption: Navigation
     :glob:
-    :numbered:
     :maxdepth: 1
+
+    CRS-*
